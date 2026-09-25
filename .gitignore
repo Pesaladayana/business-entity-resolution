@@ -1,0 +1,16 @@
+# Raw challenge data
+dataset/student_resource/dataset/
+
+# Generated output
+dataset/student_resource/output/
+
+# ZIP archive
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS metadata
+.DS_Store
+__MACOSX/
